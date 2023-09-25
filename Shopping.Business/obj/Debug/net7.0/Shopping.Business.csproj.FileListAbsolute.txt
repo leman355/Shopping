@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Shopping\Shopping.Business\bin\Debug\net7.0\Shopping.Business.deps.json
+C:\Users\user\source\repos\Shopping\Shopping.Business\bin\Debug\net7.0\Shopping.Business.dll
+C:\Users\user\source\repos\Shopping\Shopping.Business\bin\Debug\net7.0\Shopping.Business.pdb
+C:\Users\user\source\repos\Shopping\Shopping.Business\bin\Debug\net7.0\Shopping.DataAccess.dll
+C:\Users\user\source\repos\Shopping\Shopping.Business\bin\Debug\net7.0\Shopping.Entities.dll
+C:\Users\user\source\repos\Shopping\Shopping.Business\bin\Debug\net7.0\Shopping.DataAccess.pdb
+C:\Users\user\source\repos\Shopping\Shopping.Business\bin\Debug\net7.0\Shopping.Entities.pdb
+C:\Users\user\source\repos\Shopping\Shopping.Business\obj\Debug\net7.0\Shopping.Business.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Shopping\Shopping.Business\obj\Debug\net7.0\Shopping.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Shopping\Shopping.Business\obj\Debug\net7.0\Shopping.Business.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Shopping\Shopping.Business\obj\Debug\net7.0\Shopping.Business.AssemblyInfo.cs
+C:\Users\user\source\repos\Shopping\Shopping.Business\obj\Debug\net7.0\Shopping.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Shopping\Shopping.Business\obj\Debug\net7.0\Shopping.Business.csproj.CopyComplete
+C:\Users\user\source\repos\Shopping\Shopping.Business\obj\Debug\net7.0\Shopping.Business.dll
+C:\Users\user\source\repos\Shopping\Shopping.Business\obj\Debug\net7.0\refint\Shopping.Business.dll
+C:\Users\user\source\repos\Shopping\Shopping.Business\obj\Debug\net7.0\Shopping.Business.pdb
+C:\Users\user\source\repos\Shopping\Shopping.Business\obj\Debug\net7.0\ref\Shopping.Business.dll

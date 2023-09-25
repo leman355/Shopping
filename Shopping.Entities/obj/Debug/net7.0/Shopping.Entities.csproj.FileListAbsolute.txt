@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Shopping\Shopping.Entities\bin\Debug\net7.0\Shopping.Entities.deps.json
+C:\Users\user\source\repos\Shopping\Shopping.Entities\bin\Debug\net7.0\Shopping.Entities.dll
+C:\Users\user\source\repos\Shopping\Shopping.Entities\bin\Debug\net7.0\Shopping.Entities.pdb
+C:\Users\user\source\repos\Shopping\Shopping.Entities\obj\Debug\net7.0\Shopping.Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Shopping\Shopping.Entities\obj\Debug\net7.0\Shopping.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Shopping\Shopping.Entities\obj\Debug\net7.0\Shopping.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Shopping\Shopping.Entities\obj\Debug\net7.0\Shopping.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\Shopping\Shopping.Entities\obj\Debug\net7.0\Shopping.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Shopping\Shopping.Entities\obj\Debug\net7.0\Shopping.Entities.dll
+C:\Users\user\source\repos\Shopping\Shopping.Entities\obj\Debug\net7.0\refint\Shopping.Entities.dll
+C:\Users\user\source\repos\Shopping\Shopping.Entities\obj\Debug\net7.0\Shopping.Entities.pdb
+C:\Users\user\source\repos\Shopping\Shopping.Entities\obj\Debug\net7.0\ref\Shopping.Entities.dll
